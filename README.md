@@ -1,0 +1,1 @@
+The goal of this project is to develop a system capable of detecting emotions from speech by processing audio data. The system extracts relevant features from audio files and classifies them into different emotional categories such as Happy, Sad, Angry, Fearful, Neutral, and Disappointed.
