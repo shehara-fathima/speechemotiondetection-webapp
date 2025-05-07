@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# IDEs (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Mac OS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+
+# Python egg and distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Model files
+*.h5  # Keras model files
+*.pkl  # Pickled models
+
+# TensorFlow checkpoints (if you're saving model checkpoints)
+checkpoint/
+tf_checkpoints/
